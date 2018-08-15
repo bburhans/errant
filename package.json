@@ -1,0 +1,25 @@
+{
+  "name": "errant",
+  "version": "0.0.1",
+  "description": "An improved Error object for node.js that allows contextual data and inner exceptions with the stack trace",
+  "main": "err.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bburhans/errant.git"
+  },
+  "keywords": [
+    "error",
+    "exception",
+    "ecmascript",
+    "v8"
+  ],
+  "author": "Benjamin P. Burhans <benburhans@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bburhans/errant/issues"
+  },
+  "homepage": "https://github.com/bburhans/errant#readme"
+}
