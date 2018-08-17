@@ -1,6 +1,6 @@
 {
   "name": "errant",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An improved Error object for node.js that allows contextual data and inner exceptions with the stack trace",
   "main": "err.js",
   "scripts": {
