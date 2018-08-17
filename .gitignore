@@ -1,3 +1,7 @@
+*.swp
+test-err.js
+.vscode
+
 # Logs
 logs
 *.log
