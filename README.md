@@ -3,7 +3,7 @@ Improved Error object for node.js that allows contextual data and inner exceptio
 
 Just require this as a commonjs module and use the result wherever you'd use an Error object:
 ```javascript
-const Err = require('errata');
+const Err = require('errant');
 ```
 
 Instead of this:
@@ -20,7 +20,7 @@ Supplemental errors, complete with stack traces when available, can be provided 
 use these to add relevant context, especially for more complex scenarios like asynchronous throws or rejected promises.
 
 ```javascript
-const Err = require('errata');
+const Err = require('errant');
 
 let data = {
   foo: 1,
